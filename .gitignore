@@ -1,0 +1,7 @@
+.coverage
+build/
+dist/
+htmlcov/
+*.egg-info/
+*.pyc
+__pycache__/
